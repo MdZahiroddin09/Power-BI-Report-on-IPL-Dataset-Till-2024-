@@ -1,5 +1,6 @@
 # Power-BI-Report-on-IPL-Dataset(Till-2024)
-Utilized the cleaned dataset  to build a 5-page interactive Power BI report, providing insights into IPL data.<br>
+• Tools Used : Power BI Desktop.
+•Utilized the cleaned dataset  to build a 5-page interactive Power BI report, providing insights into IPL data.<br>
 •Interactive Insights and Visuals:<br>
      •IPL Distribution Overview: Visualized key insights like the most "Player of the Match" award 
   winners, total IPL seasons, and toss decisions .<br>
